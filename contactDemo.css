@@ -77,8 +77,8 @@ footer {display: block; width: 8em; margin-top: 18.5em; margin-left: auto; margi
     #mail {margin-left: -0.3em; width: 6.5em; padding: 3px; margin-top: -2.4em;}
     #openingsuren{margin-left: 5em; margin-top: -2.4em;}
     #wegbeschrijving {margin-left: 13.4em; margin-top: -2.4em;}
-    .emailadres {width: 16.5em; margin-left: 0.5em; margin-top: 0.5em; height: 0.5em; font-size: 0.8em;}
-    .invoervak {width: 20.4em; margin-left: 0.8em; margin-top: -1em; height: 11em; font-size: 0.8em;}
+    .emailadres {width: 87%; margin-left: 0.5em; margin-top: 0.5em; height: 0.5em; font-size: 0.8em;}
+    .invoervak {width: 87%; margin-left: 0.8em; margin-top: -1em; height: 50%; font-size: 0.8em;}
     .verzendknop {font-size: 1em; padding: 0.2em;}
     h1 {font-size: 1.8em; width: 6.5em; margin-top: 1em;}
     table {margin-top: 1em; margin-left: 2.6em; font-size: 1em;}
