@@ -1,4 +1,4 @@
-html {background: #FAEEB2;font-family: hind vadodara;}
+html {background: #FAEEB2; font-family: hind vadodara;}
 
 nav {margin-left: auto; margin-right: auto; margin-top: 3em; width: 900px; text-align: center;}
 
@@ -6,17 +6,17 @@ a {text-decoration: none; color:#D3AB3B; font-weight: bold;font-size: 2.2em; mar
 .active {color: #59694D;}
 a:active {color: #59694D;}
 
-p {font-size: 1.3em; color: #896E29;line-height: 1.5em; text-align: left}
-#tekstaangeduid {margin-top: 25px; width: 450px; margin-left: auto; margin-right: auto; font-size: 18px; text-align: left;}
 
 #logo {width: 7%; margin-left: 0em; margin-bottom: -1em; margin-top: 0em;}
-#img2 {width: 107%; position: relative; margin-left: -32em; display: block;margin-top: 3em;}
-#img3 {width: 107%; margin-left: 27.7em; margin-top: -6em;}
+#img2 {width: 90em; position: relative; display: block; margin-top: 3em;}
 
 #grid {width: 1200px;margin-left: -28em; margin-top: 2em;}
 .kadertje {display: block; float: left; width: 300px; height: 180px; border:5px solid #D3AB3B; border-radius: 15px;margin-right: 1em; margin-bottom: 1em;}
 
 #lp {width: 300px;height: 180px; }
+
+p {font-size: 1.3em; color: #896E29;line-height: 1.5em; text-align: left}
+#tekstaangeduid {margin-top: 25px; width: 450px; margin-left: auto; margin-right: auto; font-size: 18px; text-align: left;}
 
 .uitleg {display: block; width: 550px; height: 250px; border: 10px solid #D3AB3B; border-radius: 15px; margin-top: 0px; margin-left: 45em;padding: 20px;}
 
