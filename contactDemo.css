@@ -80,12 +80,12 @@ footer {display: block; width: 8em; margin-top: 18.5em; margin-left: auto; margi
     .emailadres {width: 87%; margin-left: 0.5em; margin-top: 0.5em; height: 0.5em; font-size: 0.8em;}
     .invoervak {width: 87%; margin-left: 0.8em; margin-top: -1em; height: 50%; font-size: 0.8em;}
     .verzendknop {font-size: 1em; padding: 0.2em;}
-    h1 {font-size: 1.8em; width: 6.5em; margin-top: 1em;}
-    table {margin-top: 1em; margin-left: 2.6em; font-size: 1em;}
+    h1 {font-size: 1.3em; width: 6.5em; margin-top: 1em;}
+    table {margin-top: 1em; margin-left: 20%; font-size: 0.7em;}
     .afbWegbeschrijving {display: none;}
-    .afbKleinWegbeschrijving {display:inline; width: 300px; margin-top: 1em;}
-    h2 {font-size: 1.5em; margin-left: auto; margin-right: auto; margin-top: 1.5em; width: 7.5em;}
-    p {font-size: 1.2em; margin-left: auto; margin-right: auto; width: 14.3em;}
+    .afbKleinWegbeschrijving {display:inline; width: 90%; margin-top: 1em;}
+    h2 {font-size: 1.2em; margin-left: auto; margin-right: auto; margin-top: 5%; width: 7.5em;}
+    p {font-size: 1em; margin-left: auto; margin-right: auto; width: 14.3em;}
     footer {margin-left: auto; margin-right: auto; margin-top: 25em; width: 4.3em;}
     .footerlink {font-size: 0.8em;}
 }
