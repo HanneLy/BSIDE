@@ -76,12 +76,13 @@ a:active {color: #59694D;}
   #logo {width: 15%}
   a {font-size: 1em; margin-left: 0em; margin-right: 0.4em;}
   #tekst {margin-left: auto; margin-right: auto;}
-  h1 {font-size: 3.5em; margin-left: auto; margin-right: auto;}
-  h2 {font-size: 1.5em;margin-left: auto; margin-right: auto; width: 100%;}
-  h3 {font-size: 0.8em; width: 270px; margin-top: 2.5em; margin-left: -25%;}
+  h1 {font-size: 3em; margin-left: -25%;}
+  h2 {font-size: 1.2em;margin-left:-5%; width: 100%; margin-top: 2%; }
+  h3 {font-size: 0.8em; width: 270px; margin-top: 30%; margin-left: -25%;}
   #img1 {display: none;}
   #img2 {width: 18em; margin-top: -1%;}
   #img4 {display: none;}
-  #ticket {width: 65%;}
-  .ticket {margin-top: 5%; margin-left: 14%; transform: rotate(0deg)}
+  #ticket {width: 55%;}
+  .ticket {margin-top: -55%; margin-left: 60%; transform: rotate(25deg)}
+  footer {margin-top:;}
 }
