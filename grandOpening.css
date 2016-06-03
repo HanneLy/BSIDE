@@ -56,6 +56,7 @@ a:active {color: #59694D;}
     #img3 {width: 175px; margin-left: 10.8em; margin-top: -2em; position: fixed;}
     #golven {width: 350px; margin-left: auto; margin-right: auto;}
     .ticketAchterkant {display: none; width: 550px; transform: rotate(0deg); margin-top: 2em; margin-left: auto; margin-right: auto;}
+    .ticketVoorkant {display: none; width: 400px; transform: rotate(0deg); margin-top: -13em; margin-left: 9em; margin-bottom: 0em;}
     footer {margin-left: auto; margin-right: auto; margin-top: 3.5em; width: 4.2em;}
     .footerlink {font-size: 0.8em;}
 }
