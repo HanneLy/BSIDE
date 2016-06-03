@@ -1,0 +1,92 @@
+html {background: #FAEEB2;font-family: hind vadodara;}
+
+nav {margin-left: auto; margin-right: auto; margin-top: 3em; width: 900px; text-align: center;}
+
+a {text-decoration: none; color:#D3AB3B; font-weight: bold;font-size: 2.2em; margin-right: 0.8em; margin-left: 0.8em; font-family: showcard gothic;}
+.active {color: #59694D;}
+a:active {color: #59694D;}
+
+p {font-size: 1.3em; color: #896E29;line-height: 1.5em; text-align: left}
+#tekstaangeduid {margin-top: 25px; width: 450px; margin-left: auto; margin-right: auto; font-size: 18px; text-align: left;}
+
+#logo {width: 7%; margin-left: 0em; margin-bottom: -1em; margin-top: 0em;}
+#img2 {width: 107%; position: relative; margin-left: -32em; display: block;margin-top: 3em;}
+#img3 {width: 107%; margin-left: 27.7em; margin-top: -6em;}
+
+#grid {width: 1200px;margin-left: -28em; margin-top: 2em;}
+.kadertje {display: block; float: left; width: 300px; height: 180px; border:5px solid #D3AB3B; border-radius: 15px;margin-right: 1em; margin-bottom: 1em;}
+
+#lp {width: 300px;height: 180px; }
+
+.uitleg {display: block; width: 550px; height: 250px; border: 10px solid #D3AB3B; border-radius: 15px; margin-top: 0px; margin-left: 45em;padding: 20px;}
+
+.uitvergroot {background: white; width: 550px; height: 540px; border: 10px solid #D3AB3B; border-radius: 15px; margin-top: 0px; margin-left: 45em;padding: 20px;}
+#aangeduidlp {margin-top: 10px; margin-left:25px; width: 450px; height: 270px;}
+#tekstaangeduid {height: 180px;}
+
+table {margin-left: 100px; margin-top: 15px; text-align: left;}
+h1 {font-weight: bold; margin-left: 100px; margin-top: 15px; color: #896E29; font-size: 20px;text-align: left;}
+h2 {font-weight: bold; margin-left: 100px; margin-top: 0px; color: #896E29; font-size: 16px; text-align: left;}
+td {width: 250px; height: 25px;}
+h3 {font-weight: bold; margin-left: 55px; margin-top: 15px; color: #896E29; font-size: 20px; margin-top: 25px; text-align: left;}
+h4 {font-weight: bold; margin-left: 55px; margin-top: 0px; color: #896E29; font-size: 16px; text-align: left;}
+
+#aangeduid7, #aangeduid8, #aangeduid9 {height: 540px;}
+
+footer {margin-top: 20.2em; display: block; width: 9em; margin-left: auto; margin-right: auto;}
+.footerlink {font-size: 1.4em; font-weight: normal; color: #896E29; text-decoration: underline;}
+
+.onzichtbaar {display: none;}
+
+
+@media (max-width:750px) {
+    nav {width: 400px; margin-top: 2em;}
+    #logo {width: 15%}
+    a {font-size: 1.3em; margin-left: 0.4em; margin-right: 0.4em;}
+    #img2 {width: 175px; margin-left: 0em; position: fixed; margin-top: 0em;}
+    #img3 {width: 175px; margin-left: 0em; margin-top: 0.1em; position: fixed;}
+    #golven {width: 350px; height: 1px; margin-left: auto; margin-right: auto;}
+    #grid {width: 520px; margin-left: -3em;margin-top: 18em;}
+    .kadertje {width: 150px; height: 90px; border:3px solid #D3AB3B; border-radius: 5px;}
+    #lp {width: 150px; height: 90px;}
+    .uitleg {width: 500px; height: 130px; margin-left: -4em; margin-top: -14em; padding: 10px; border: 5px solid #D3AB3B;}
+    p {font-size: 0.9em;}
+    .uitvergroot {width: 290px; height: 175px; margin-left: 3em; margin-top: -14em; border: 5px solid #D3AB3B; padding: 5px;}
+    #aangeduidlp {display: none;}
+    h1 {font-size: 1em; margin-left: 0.5em; line-height: 1em; margin-top: 5px;}
+    h2 {display: block; font-size: 0.8em; margin-left: 0.5em; line-height: 1.5em;}
+    h3 {font-size: 1em;  margin-left: 0.5em; margin-top: 5px;}
+    h4 {font-size: 0.8em;  margin-left: 0.5em; line-height: 1.5em;}
+    td {font-size: 0.75em; height: 1.2em; width: 450px;}
+    table {width: 265px; margin-left: 1em; margin-top: 5px;}
+    #tekstaangeduid {font-size: 0.8em; width: 260px; margin-top: 0.5em; line-height: 1.3em;}
+    #aangeduid7, #aangeduid8, #aangeduid9 {height: 175px; }
+    footer {margin-top: 33em; width: 6em; margin-left: auto; margin-right: auto; }
+    .footerlink {font-size: 0.8em;}
+}
+
+@media (max-width:450px) {
+    nav {width: 320px;}
+    #logo {width: 13%; margin-bottom: -1em; margin-top: -1em;}
+    a {font-size: 1em; margin-left: 0.4em; margin-right: 0.4em;}
+    #img2 {width: 175px; margin-left: -0.5em; position: fixed; margin-top: -0.5em;}
+    #img3 {width: 175px; margin-left: 0.3em; margin-top: -0.4em; position: fixed;}
+    #golven {width: 320px; height: 1px; margin-left: auto; margin-right: auto;}
+    #grid {width: 320px; margin-left: 1.3em; margin-top: 16em;}
+    .kadertje {width: 75px; height: 45px; border:3px solid #D3AB3B; border-radius: 5px;}
+    #lp {width: 75px; height: 45px;}
+    .uitleg {width: 280px; height: 165px; margin-left: 0.3em; margin-top: -14em; padding: 10px; border: 5px solid #D3AB3B;}
+    p {font-size: 0.75em;}
+    .uitvergroot {width: 290px; height: 175px; margin-left: 0.3em; margin-top: -14em; border: 5px solid #D3AB3B; padding: 5px;}
+    #aangeduidlp {display: none;}
+    h1 {font-size: 1em; margin-left: 1em; line-height: 1em; margin-top: 5px;}
+    h2 {font-size: 0.8em; margin-left: 1em; line-height: 1.5em;}
+    h3 {font-size: 1em;  margin-left: 1em; margin-top: 5px;}
+    h4 {font-size: 0.8em;  margin-left: 1em; line-height: 1.5em;}
+    td {font-size: 0.75em; height: 1.2em; width: 450px;}
+    table {width: 265px; margin-left: 1em; margin-top: 5px;}
+    #tekstaangeduid {font-size: 0.8em; width: 260px; margin-top: 0.5em; line-height: 1.3em;}
+    #aangeduid7, #aangeduid8, #aangeduid9 {height: 175px; }
+    footer {margin-top: 15.2em; width: 6em; margin-left: auto; margin-right: auto;}
+    .footerlink {font-size: 0.8em;}
+}
