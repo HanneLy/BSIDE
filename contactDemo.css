@@ -5,8 +5,7 @@ nav {margin-left: auto; margin-right: auto; margin-top: 3em; width: 900px; text-
 a {text-decoration: none; color:#D3AB3B; font-weight: bold;font-size: 2.2em; margin-right: 0.8em; margin-left: 0.8em; font-family: showcard gothic;}
 
 #logo {width: 7%; margin-left: 0em; margin-bottom: -1em; margin-top: 0em;}
-#img2 {width: 50%; position: relative; margin-left: 0em; display: block;margin-top: 3em;}
-#img3 {width: 50%; margin-left: 59.5em; margin-top: -6em;}
+#img2 {width: 90em; position: relative; margin-left: auto; margin-right: auto; display: block; margin-top: 3em;}
 
 #mailDiv {position: absolute; width: 50em; height: 35em; margin-left: 25em; margin-top: -20em; background:#D3AB3B; border: 5px solid #D3AB3B; border-radius: 15px;}
 .emailadres {width: 37.5em; margin-top: 1.5em; margin-left: 1.5em; margin-bottom: 2em; font-size: 1.2em; border-radius: 10px; padding:0.5em;}
@@ -42,9 +41,7 @@ footer {display: block; width: 8em; margin-top: 18.5em; margin-left: auto; margi
   nav {width: 400px; margin-top: 2em;}
   #logo {width: 15%}
   a {font-size: 1.3em; margin-left: 0.4em; margin-right: 0.4em;}
-  #img2 {width: 175px; margin-top: 0em; position: fixed;}
-  #img3 {width: 175px; margin-left: 10.8em; margin-top: 0.1em; position: fixed;}
-  #golven {width: 350px; margin-left: auto; margin-right: auto;}
+  #img2 {width: 25em; margin-top: -1%;}
   .knoppen {position: fixed; margin-left: 2.5em; width: 21em;}
   #mailDiv, #openingsurenDiv, #wegbeschrijvingDiv {position: fixed; width: 30em; margin-left:5.5em; margin-top: 5em; height: 32em; margin-bottom: -10em}
   #mail, #openingsuren, #wegbeschrijving {font-size: 1.2em; height: 3em; float: left; border: none; position: fixed;}
@@ -65,12 +62,10 @@ footer {display: block; width: 8em; margin-top: 18.5em; margin-left: auto; margi
 }
 
 @media (max-width:450px) {
-    nav {width: 320px;}
-    #logo {width: 13%; margin-bottom: -1em; margin-top: -1em;}
-    a {font-size: 1em; margin-left: 0.4em; margin-right: 0.4em;}
-    #img2 {width: 175px; margin-left: 0em; margin-top: -0.5em; position: fixed;}
-    #img3 {width: 175px; margin-left: 10.8em; margin-top: -0.4em; position: fixed;}
-    #golven {width: 350px; margin-left: auto; margin-right: auto;}
+    nav {width: 95%;}
+    #logo {width: 15%;}
+    a {font-size: 1em; margin-left: 0em; margin-right: 0.4em;}
+    #img2 {width: 18em; margin-top: -1%;}
     .knoppen {position: fixed; margin-left: 0.5em; width: 21em;}
     #mailDiv, #openingsurenDiv, #wegbeschrijvingDiv {position: fixed; width: 15em; margin-left:1.9em; margin-top: 5em; height: 14.5em; margin-bottom: -10em}
     #mail, #openingsuren, #wegbeschrijving {font-size: 0.8em; height: 3em; float: left; border: none; position: fixed;}
@@ -86,6 +81,6 @@ footer {display: block; width: 8em; margin-top: 18.5em; margin-left: auto; margi
     .afbKleinWegbeschrijving {display:inline; width: 80%; margin-top: 1em;}
     h2 {font-size: 1.2em; margin-left: auto; margin-right: auto; margin-top: 5%; width: 7.5em;}
     p {font-size: 1em; margin-left: auto; margin-right: auto; width: 14.3em;}
-    footer {margin-left: auto; margin-right: auto; margin-top: 25em; width: 4.3em;}
+    footer {margin-left: auto; margin-right: auto; margin-top: 120%; width: 4.3em;}
     .footerlink {font-size: 0.8em;}
 }

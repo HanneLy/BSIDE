@@ -4,14 +4,13 @@ nav {margin-left: auto; margin-right: auto; margin-top: 3em; width: 900px; text-
 
 a {text-decoration: none; color:#D3AB3B; font-weight: bold;font-size: 2.2em; margin-right: 0.8em; margin-left: 0.8em; font-family: showcard gothic;}
 
-
 #tekst {margin-left:25%; width: 50%; margin-top: 3%;}
 h1 {font-size: 8em; width: 100%; font-weight: bold; font-family: showcard gothic; color: #D3AB3B;}
 h2 {font-size: 3em; width: 85%; font-weight: bold; color: #D3AB3B; margin-left:15%;margin-top: 15px;}
 h3 {width: 500px; font-size: 1.5em; font-weight: bold; color: #896E29; margin-left:25%;margin-top: 55px; line-height: 1.5em;}
 
 #logo {width: 7%; margin-left: 0em; margin-bottom: -1em; margin-top: 0em;}
-#img2 {width: 90em; position: relative; margin-left: 9.8em; display: block;margin-top: 3em; margin-left: auto; margin-right: auto;}
+#img2 {width: 90em; position: relative; display: block;margin-top: 3em; margin-left: auto; margin-right: auto;}
 
 #img1 {width: 50%; display: block; margin-left:-17%; margin-top:90px; position: fixed; }
 
@@ -72,7 +71,7 @@ a:active {color: #59694D;}
 }
 
 @media (max-width:450px) {
-  nav {width: 340px; margin-top: 2em;}
+  nav {width: 95%; margin-top: 2em;}
   #logo {width: 15%}
   a {font-size: 1em; margin-left: 0em; margin-right: 0.4em;}
   #tekst {margin-left: auto; margin-right: auto;}
@@ -83,5 +82,7 @@ a:active {color: #59694D;}
   #img2 {width: 18em; margin-top: -1%;}
   #img4 {display: none;}
   #ticket {width: 55%;}
-  .ticket {margin-top: -65%; margin-left: 60%; transform: rotate(25deg)}
+  .ticket {margin-top: -65%; margin-left: 60%; transform: rotate(25d2g)}
+  footer {margin-top: 35%;}
+  .footerlink {font-size: 0.8em;}
 }
